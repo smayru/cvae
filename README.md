@@ -1,6 +1,6 @@
 # cvae
 
-I implemented CSVE with chainer.
+I implemented CVAE with chainer.
 This method is  [Learning Structured Output Representation using Deep Conditional Generative Models][].
 [Learning Structured Output Representation using Deep Conditional Generative Models]: https://papers.nips.cc/paper/5775-learning-structured-output-representation-using-deep-conditional-generative-models.pdf        "Learning Structured Output Representation using Deep Conditional Generative Models" (CVAE)
 
