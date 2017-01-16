@@ -12,5 +12,5 @@ The goal of this of code is to generate the image using MINST dataset.
 This setting is similar to the experiment conducted in Learning Structured Output Representation using Deep Conditional Generative Models.
 
 # Procedures
-python csve_train.py  
-python csve_test.py 
+python cvae_train.py  
+python cvae_test.py 
